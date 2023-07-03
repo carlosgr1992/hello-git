@@ -1,1 +1,3 @@
 Aqui el codigo para ir creando poco a poco la nueva funcionalidad del diablo de los portales
+
+Añadimos todavia mas funcionalidades para la version 2
