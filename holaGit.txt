@@ -1,4 +1,7 @@
 Main
 print "hola mundo";
-int numero = 500;
+int numero = 450;
 Añado una nueva cagada;
+Esto es lo que he hecho hoy;
+He añadido aqui otra clase;
+Y un par de metodos mas;
