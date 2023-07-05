@@ -1,7 +1,8 @@
 Main
 print "hola mundo";
-int numero = 450;
+int numero = 350;
 Añado una nueva cagada;
 Esto es lo que he hecho hoy;
 He añadido aqui otra clase;
 Y un par de metodos mas;
+Los elites ahora son gays;
