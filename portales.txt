@@ -1,0 +1,6 @@
+Aqui el codigo para ir creando poco a poco la nueva funcionalidad del diablo de los portales
+
+Añadimos todavia mas funcionalidades para la version 2
+mas funcionalidades todavía...
+y más y más...
+y por último, terminamos todo y lo queremos ya pasar a la rama main
